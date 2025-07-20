@@ -1,1 +1,1 @@
-this project is a merns based project name: AI CODE REVIEWER
+this project is a mern based project name: AI CODE REVIEWER
